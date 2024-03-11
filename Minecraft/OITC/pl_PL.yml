@@ -11,12 +11,12 @@
 
 # One in the Chamber Command Messages
 Commands:
-  Did-You-Mean: "&3Did you mean &b/%command%&3?"
-  Are-You-Sure: "&cAre you sure you want to do this action? Type the command again &6within 10 seconds &cto confirm!"
-  Removed-Game-Instance: "&aSuccessfully removed game instance!"
-  No-Arena-Like-That: "&cWe couldn't find any arena with that name matching!"
-  Look-Sign: "&cYou have to look at a sign to perform this command!"
-  Type-Arena-Name: "&cPlease type an arena name!"
+  Did-You-Mean: "&3Czy miałeś na myśli &b/%command%&3?"
+  Are-You-Sure: "&cJesteś pewien że chcesz wykonać tą akcje? Wpisz tą komende jeszcze raz &6 w ciągu 10-ciu sekund &caby potwierdzić!"
+  Removed-Game-Instance: "&aPoprawnie usunięto instancje gry!"
+  No-Arena-Like-That: "&cNie znalezliśmy żadnej areny z taką nazwą!"
+  Look-Sign: "&cMusisz patrzeć się na tabliczke aby wykonac tą akcje!"
+  Type-Arena-Name: "&cProsze wpisz nazwe areny!"
   No-Free-Arenas: "&cThere isn't any available arena!"
   Statistics:
     Type-Name: "&cPlease type statistic name to view!"
