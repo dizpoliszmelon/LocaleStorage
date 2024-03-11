@@ -88,15 +88,15 @@ Scoreboard:
 Boss-Bar:
   Main-Title: "&a&lOne in the Chamber &f&l- &6&lDespical"
   Starting-In: "&f&lZaczynamy za: &e&l%time%"
-  Waiting-For-Players: "&4&lWaiting for more players..."
-  In-Game-Info: "&e&lPlaying &f&lONE IN THE CHAMBER &e&lby &b&lDESPICAL"
-  Game-Ended: "&c&lGame has ended! You were playing &b&lOITC"
+  Waiting-For-Players: "&4&lCzekamy na więcej graczy..."
+  In-Game-Info: "&e&lAktualnie grasz w tryb &f&lONE IN THE CHAMBER &e&lzrobiony przez &b&lDESPICAL"
+  Game-Ended: "&c&lGra zakończona! Grałeś w &b&lOITC"
 
 # Used in most game messages.
 In-Game:
   Plugin-Prefix: "&8[&6OITC&8] "
-  Already-Playing: "&cYou are already queued for a game! You can leave a game with /oitc leave."
-  Join-No-Permission: "&cYou don't have &6%permission% &cpermission to join this arena!"
+  Already-Playing: "&cJesteś już w kolejce do gry! Możesz opuścić grę komendą /oitc leave."
+  Join-No-Permission: "&cNie masz &6%permission% &cpermisji aby dołączyć na tą arenę"
   Full-Game-No-Permission: "&cYou don't have the permission to join full games!"
   No-Slots-For-Premium: "&cThis game is already full of premium players! Sorry"
   You-Are-Spectator: "&cYou're now a spectator! You can fly now!"
